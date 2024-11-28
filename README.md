@@ -3,8 +3,8 @@
 <div style="display: flex; justify-content: center; align-items: center;">
     <h1 style="margin-right: 20px;">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thanawin+Saithong!;" />
+        <img src="https://miro.medium.com/v2/resize:fit:500/format:webp/0*t93Y3LrMvw4v-kGy.gif" alt="Golang GIF" style="max-width: 150px;" />
     </h1>
-    <img src="https://miro.medium.com/v2/resize:fit:500/format:webp/0*t93Y3LrMvw4v-kGy.gif" alt="Golang GIF" style="max-width: 150px;" />
 </div>
 
 <h3 align="center">A passionate software developer from Thailand </h3>
