@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rehunt671.Rehunt671" />
     <h1 style="margin-right: 20px;">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thanawin+Saithong!;" />
-    </h1>
     <img src="https://miro.medium.com/v2/resize:fit:500/format:webp/0*t93Y3LrMvw4v-kGy.gif" alt="Golang GIF"/>
+    </h1>
 
 
 <h3 align="center">A passionate software developer from Thailand </h3>
