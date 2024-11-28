@@ -66,5 +66,10 @@
 
 <br/>
 
+<!-- Add Golang GIF here -->
+<div align="center">
+  <h2>🦸‍♂️ Golang GIF 🦸‍♂️</h2>
+  <img src="https://media.giphy.com/media/4yOZgGPCy7ZAE/giphy.gif" alt="Golang GIF" />
+</div>
 
 <br/>
