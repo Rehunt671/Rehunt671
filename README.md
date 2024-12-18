@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rehunt671.Rehunt671" />
 <h1 style="margin-right: 20px; display: flex; align-items: center;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thanawin+Saithong!;" />
-<!--     <img src="https://miro.medium.com/v2/resize:fit:500/format:webp/0*t93Y3LrMvw4v-kGy.gif" alt="Golang GIF" style="margin-left: 20px;" /> -->
+ <img src="https://miro.medium.com/v2/resize:fit:500/format:webp/0*t93Y3LrMvw4v-kGy.gif" alt="Golang GIF" style="margin-left: 20px;" alt="Golang GIF" style="margin-left: 20px; width: 200px; height: auto;" />
  <img src="https://gist.githubusercontent.com/brudnak/6c21505423e4ff089ab704ec79b5a096/raw/b2d3dec32474b2121b179920734b259323a7c250/go.gif" alt="Golang GIF" style="margin-left: 20px; width: 200px; height: auto;" />
 </h1>
 
