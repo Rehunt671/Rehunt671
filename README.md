@@ -9,7 +9,7 @@
        style="flex: 1; text-align: center;" />
   <img src="https://raw.githubusercontent.com/gist/brudnak/6c21505423e4ff089ab704ec79b5a096/raw/b2d3dec32474b2121b179920734b259323a7c250/go.gif" 
        alt="Golang GIF" 
-       style="width: 150px; height: auto;" />
+       style="width: 196px; height: auto;" />
 </div>
 
 
