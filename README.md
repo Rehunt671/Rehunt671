@@ -8,7 +8,7 @@
   
   <img src="https://miro.medium.com/v2/resize:fit:1000/1*Gbi_XNOkPFbWkIkJC7LnBQ.gif" 
        alt="Golang GIF" 
-       style="width: 169px; height: auto;" />
+       style="width: 160px; height: auto;" />
 </div>
 
 <h3 align="center">A passionate software developer from Thailand </h3>
