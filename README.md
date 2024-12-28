@@ -1,9 +1,9 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rehunt671.Rehunt671" />
+
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <img src="https://miro.medium.com/v2/resize:fit:500/format:webp/0*t93Y3LrMvw4v-kGy.gif" 
        alt="Golang GIF" 
-       style="width: 100px; height: auto;" />
+       style="width: 150px; height: auto;" />
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thanawin+Saithong!;" 
        alt="Typing SVG" />
   <img src="https://raw.githubusercontent.com/gist/brudnak/6c21505423e4ff089ab704ec79b5a096/raw/b2d3dec32474b2121b179920734b259323a7c250/go.gif" 
