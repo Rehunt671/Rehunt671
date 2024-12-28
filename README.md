@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rehunt671.Rehunt671" />
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <img src="https://miro.medium.com/v2/resize:fit:500/format:webp/0*t93Y3LrMvw4v-kGy.gif" 
        alt="Golang GIF" 
        style="width: 150px; height: auto;" />
@@ -10,8 +10,6 @@
        alt="Golang GIF" 
        style="width: 100px; height: auto;" />
 </div>
-
-
 
 
 <h3 align="center">A passionate software developer from Thailand </h3>
