@@ -1,6 +1,8 @@
-
+<img align="right" 
+     src="https://visitor-badge.laobi.icu/badge?page_id=Rehunt671.Rehunt671" 
+     style="margin-bottom: 10px; padding-bottom: 20px;" />
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rehunt671.Rehunt671" style="margin-bottom: 10px;" />
+
   
   <img src="https://miro.medium.com/v2/resize:fit:500/format:webp/0*t93Y3LrMvw4v-kGy.gif" 
        alt="Golang GIF" 
