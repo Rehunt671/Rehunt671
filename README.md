@@ -71,5 +71,5 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 <br>
 <div align="center">
-    <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rehunt671" alt="Rehunt671" /></a></p>
+    <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rehunt671&theme=onedark" alt="Rehunt671" /></a></p>
 </div>
