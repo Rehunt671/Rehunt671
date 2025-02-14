@@ -73,3 +73,8 @@
 <div align="center">
     <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rehunt671&theme=onedark" alt="Rehunt671" /></a></p>
 </div>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
