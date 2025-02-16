@@ -78,6 +78,10 @@
     <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rehunt671&theme=onedark" alt="Rehunt671" /></a></p>
 </div>
 
+<div align="center">
+  <img src="assets/wallpaper_2.gif" alt="pixel city night" width="100%" /><br>
+</div>
+
 <!--Footer--> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
