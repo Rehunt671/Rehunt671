@@ -1,6 +1,4 @@
-
 <img src="assets/github_header_wallpaper.gif" align="middle" alt="Banner" width="100%"/>
-
 <div style="display: flex; justify-content: space-between; align-items: center; width: 50%;">
     <img src="assets/go_workout.gif" 
          alt="Golang GIF" 
@@ -39,14 +37,11 @@
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,mui,react,nextjs" /><br/>
-    <img src="https://skillicons.dev/icons?i=linux,vscode,idea,postman,git,github,gitlab,docker,kubernetes,grafana,prometheus,cypress" /> 
-    <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,nestjs,go,java,spring,laravel,mongodb,mysql,postgres,redis,elasticsearch,rabbitmq" /><br>
-</div>
-
-<br/>
+    <div align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,mui,react,nextjs" /><br/>
+        <img src="https://skillicons.dev/icons?i=linux,vscode,idea,postman,git,github,gitlab,docker,kubernetes,grafana,prometheus,cypress" /> 
+        <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,nestjs,go,java,spring,laravel,mongodb,mysql,postgres,redis,elasticsearch,rabbitmq" /><br>
+    </div>
 <hr/>
  
 <div align="center">
