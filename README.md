@@ -37,6 +37,7 @@
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+    <br>  
     <div align="center">
         <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,mui,react,nextjs" /><br/>
         <img src="https://skillicons.dev/icons?i=linux,vscode,idea,postman,git,github,gitlab,docker,kubernetes,grafana,prometheus,cypress" /> 
@@ -45,6 +46,7 @@
 <hr/>
  
 <div align="center">
+  <br>
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Rehunt671/Rehunt671/output/github-contribution-grid-snake.svg" />
@@ -60,7 +62,6 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
 <hr/>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
