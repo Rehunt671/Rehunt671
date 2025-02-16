@@ -36,7 +36,7 @@
   </a>
 </div>
 
- <hr/>
+<hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -47,10 +47,6 @@
 </div>
 
 <br/>
-<hr/>
-
-<img src="assets/wallpaper_1.gif" width="100%" alt="marginline"/>
-
 <hr/>
  
 <div align="center">
