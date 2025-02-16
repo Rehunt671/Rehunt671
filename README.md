@@ -1,3 +1,4 @@
+[![Kingsglaive's GitHub Banner](./assets/github_header.png)]
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 50%;">
     <img src="https://miro.medium.com/v2/resize:fit:500/format:webp/0*t93Y3LrMvw4v-kGy.gif" 
