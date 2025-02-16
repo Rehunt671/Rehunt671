@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <!-- ![Kingsglaive's GitHub Banner](./assets/github_header.png) -->
 
 
