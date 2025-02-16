@@ -51,6 +51,8 @@
 
 <img src="assets/wallpaper_1.gif" width="100%" alt="marginline"/>
 
+<hr/>
+ 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
