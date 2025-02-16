@@ -3,7 +3,7 @@
 
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 50%;">
-    <img src="assets/go_workout.gif.gif" 
+    <img src="assets/go_workout.gif" 
          alt="Golang GIF" 
          style="width: 169px; height: auto;" />
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thanawin+Saithong!;" 
