@@ -1,6 +1,5 @@
 
-![Kingsglaive's GitHub Banner](./assets/github_header_wallpaper.gif)
-
+<img src="assets/github_header_wallpaper.gif" align="middle" alt="Banner" width="100%"/>
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 50%;">
     <img src="assets/go_workout.gif" 
@@ -49,6 +48,8 @@
 
 <br/>
 <hr/>
+
+<img src="assets/wallpaper_1.gif" width="100%" alt="marginline"/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
