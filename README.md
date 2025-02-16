@@ -1,5 +1,5 @@
 
-<!-- ![Kingsglaive's GitHub Banner](./assets/github_header.png) -->
+![Kingsglaive's GitHub Banner](./assets/github_header_wallpaper.gif)
 
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 50%;">
