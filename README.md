@@ -76,7 +76,7 @@
         <img height='64' style='border:0px;height:64px;' src='assets/kofi-button.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
     </a>&nbsp;&nbsp;
      <a href="https://buymeacoffee.com/kingsglaive" target="_blank">
-        <img height="64" style="border:0px; height:64px; border-radius: 10px;" 
+        <img height="64" style="border:0px; height:64px; border-radius: 30px;" 
              src="assets/bmc-button.png" alt="Buy Me a Coffee at buymecoffee.com" />
     </a>
 </div>
