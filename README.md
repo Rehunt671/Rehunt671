@@ -72,9 +72,9 @@
 <hr/>
 
 <div align="center">
-    <a href='https://ko-fi.com/M4M4ZX7SZ' target='_blank' style="padding-right: 10px;">
+    <a href='https://ko-fi.com/M4M4ZX7SZ' target='_blank'>
         <img height='64' style='border:0px;height:64px;' src='assets/kofi-button.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
-    </a>
+    </a>&nbsp;&nbsp;
     <a href='https://buymeacoffee.com/kingsglaive' target='_blank'>
         <img height='64' style='border:0px;height:64px;' src='assets/bmc-button.png' border='0' alt='Buy Me a Coffee at buymecoffee.com' />
     </a>
