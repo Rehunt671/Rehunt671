@@ -85,9 +85,10 @@
 
 <hr/>
 
-<p align="center">
+<h2 align="center">✍️ Dev Quote</h2>
+<div align="center"> 
   <img src="https://github-readme-quotes-bay.vercel.app/quote"/>
-</p>
+</div>
 
 <br>
 
