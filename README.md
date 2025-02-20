@@ -76,7 +76,7 @@
 <h2 align="center">✍️ Dev Quote</h2>
 <br>
 <div align="center"> 
-  <img src="https://github-readme-quotes-bay.vercel.app/quote"/>
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in"/>
 </div>
 
 <hr/>
