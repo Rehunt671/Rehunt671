@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rehunt671.Rehunt671" />
 <img src="assets/github_header_wallpaper.gif" align="middle" alt="Banner" width="100%"/>
 <div style="display: flex; justify-content: space-between; align-items: center; width: 50%;">
     <img src="assets/go_workout.gif" 
