@@ -86,7 +86,9 @@
 <hr/>
 
 <div align="center">
+    ```md
     ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
+    ```
 </div>
 
 <hr/>
