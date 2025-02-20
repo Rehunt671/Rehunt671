@@ -73,6 +73,14 @@
 
 <hr/>
 
+<h2 align="center">✍️ Dev Quote</h2>
+<br>
+<div align="center"> 
+  <img src="https://github-readme-quotes-bay.vercel.app/quote"/>
+</div>
+
+<hr/>
+
 <div align="center">
     <a href='https://ko-fi.com/M4M4ZX7SZ' target='_blank'>
         <img height='64' style='border:0px;height:64px;' src='assets/kofi-button.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
@@ -82,16 +90,6 @@
              src="assets/bmc-button.png" alt="Buy Me a Coffee at buymecoffee.com" />
     </a>
 </div>
-
-<hr/>
-
-<h2 align="center">✍️ Dev Quote</h2>
-<br>
-<div align="center"> 
-  <img src="https://github-readme-quotes-bay.vercel.app/quote"/>
-</div>
-
-<br>
 
 <hr/>
 
