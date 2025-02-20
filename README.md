@@ -85,9 +85,6 @@
 
 <hr/>
 
-```md
-![Quote](https://github-readme-quotes-bay.vercel.app/quote)
-```
 <p align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote"/>
 </p>
