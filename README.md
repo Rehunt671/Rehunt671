@@ -43,7 +43,8 @@
     <div align="center">
         <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,mui,vite,react,nextjs" /><br/>
         <img src="https://skillicons.dev/icons?i=linux,vscode,idea,postman,git,github,githubactions,gitlab,docker,kubernetes,grafana,prometheus,cypress" /> 
-        <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,nestjs,go,java,spring,hibernate,laravel,mongodb,mysql,postgres,redis,elasticsearch,rabbitmq" /><br>
+        <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,nestjs,go,java,spring,laravel,mongodb,mysql,postgres,redis,elasticsearch,rabbitmq" /><br>
+<!--         <img src="https://skillicons.dev/icons?i=rabbitmq,kafka,terraform" /><br> -->
     </div>
 <hr/>
  
