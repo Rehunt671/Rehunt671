@@ -83,7 +83,11 @@
     </a>
 </div>
 
+<hr/>
 
+<div align="center">
+    ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=grow_out_in)
+</div>
 
 <hr/>
 
