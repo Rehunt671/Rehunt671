@@ -24,6 +24,10 @@
 
  </div>
  
+ <div align="center"> 
+    <img src="assets/git_gud.png"/> 
+ </div>
+
 <div align="center"> 
   <a href="mailto:nonokub.671@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -84,11 +88,11 @@
 
 <div align="center">
     <a href='https://ko-fi.com/M4M4ZX7SZ' target='_blank'>
-        <img height='64' style='border:0px;height:64px;' src='assets/kofi-button.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+        <img height='64' style='border:0px;height:64px;' src='assets/kofi_button.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
     </a>&nbsp;&nbsp;
      <a href="https://buymeacoffee.com/kingsglaive" target="_blank">
         <img height="64" style="border:0px; height:64px;" 
-             src="assets/bmc-button.png" alt="Buy Me a Coffee at buymecoffee.com" />
+             src="assets/bmc_button.png" alt="Buy Me a Coffee at buymecoffee.com" />
     </a>
 </div>
 
