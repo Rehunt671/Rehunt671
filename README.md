@@ -87,7 +87,12 @@
     <div>
         <img src="assets/git_gud.png"/> 
     </div>
-    <a href='https://ko-fi.com/M4M4ZX7SZ' target='_blank'>
+</div>
+
+<hr/>
+
+<div align="center">
+   <a href='https://ko-fi.com/M4M4ZX7SZ' target='_blank'>
         <img height='64' style='border:0px;height:64px;' src='assets/kofi_button.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
     </a>&nbsp;&nbsp;
      <a href="https://buymeacoffee.com/kingsglaive" target="_blank">
