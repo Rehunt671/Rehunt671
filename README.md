@@ -84,7 +84,9 @@
 <hr/>
 
 <div align="center">
-    <img src="assets/git_gud.png"/> 
+    <div>
+        <img src="assets/git_gud.png"/> 
+    </div>
     <a href='https://ko-fi.com/M4M4ZX7SZ' target='_blank'>
         <img height='64' style='border:0px;height:64px;' src='assets/kofi_button.png' border='0' alt='Buy Me a Coffee at ko-fi.com' />
     </a>&nbsp;&nbsp;
